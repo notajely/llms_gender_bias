@@ -33,7 +33,7 @@ ENV/
 *.h5
 *.csv
 *.json
-data/raw/
+data/
 
 # 结果文件
 results/
