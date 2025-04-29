@@ -34,8 +34,7 @@ ENV/
 *.csv
 *.json
 
-# 结果文件
-results/
+
 
 # MacOS
 .DS_Store
@@ -43,3 +42,5 @@ results/
 # 编辑器
 .vscode/
 .idea/
+
+src/
