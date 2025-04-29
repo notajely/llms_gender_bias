@@ -44,3 +44,19 @@ ENV/
 .idea/
 
 src/
+data/
+logs/
+results/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
