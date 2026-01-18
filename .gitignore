@@ -43,10 +43,9 @@ ENV/
 .vscode/
 .idea/
 
-src/
 data/
-logs/
 results/
+logs/
 __pycache__/
 *.py[cod]
 *$py.class
